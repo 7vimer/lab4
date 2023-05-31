@@ -8,6 +8,6 @@ namespace lab4
 {
 	public interface IObservable
 	{
-		public bool OnFire(); //Начальный код
+		public bool OnFire(); //Коммы
 	}
 }
